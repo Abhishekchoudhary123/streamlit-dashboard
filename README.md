@@ -1,16 +1,28 @@
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/demo-uber-nyc-pickups/main)
+# Streamlit Data Dashboard
 
-# Streamlit Demo: Uber Pickups in New York City
-A [Streamlit](https://streamlit.io) demo [written in pure Python](https://github.com/streamlit/demo-uber-nyc-pickups/blob/main/streamlit_app.py) to interactively visualize Uber pickups in New York City.
+## Overview
+This project is a Python-based interactive dashboard built using Streamlit. It analyzes and visualizes dataset trends for reporting and insights.
 
-![Final App Animation](https://github.com/streamlit/demo-uber-nyc-pickups/raw/main/uber_demo.png "Uber demo")
+## Features
+- Interactive dashboard
+- Data visualization
+- Python + Pandas analytics
+- Real-time filtering
+- Clean UI using Streamlit
 
-## Run this demo locally
-```
-pip install --upgrade streamlit
-streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/main/streamlit_app.py
-```
+## Tech Stack
+- Python
+- Streamlit
+- Pandas
+- NumPy
 
-### Questions? Comments?
+## How to Run
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
 
-Please ask in the [Streamlit community](https://discuss.streamlit.io).
+
+## Author
+**Abhishek Choudhary**  
+GitHub: https://github.com/Abhishekchoudhary123
+
